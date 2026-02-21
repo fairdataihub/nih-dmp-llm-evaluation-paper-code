@@ -7,3 +7,4 @@ sentence-transformers
 pypandoc
 python-dotenv
 openpyxl
+rouge-score
