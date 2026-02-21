@@ -8,3 +8,5 @@ pypandoc
 python-dotenv
 openpyxl
 rouge-score
+matplotlib
+seaborn

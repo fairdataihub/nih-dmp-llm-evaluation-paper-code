@@ -72,6 +72,7 @@ document_portal.egg-info/
 # Keep only the final summary CSVs for GitHub
 # =========================================================
 derivative/automated-evaluation/*.csv
+derivative/human-evaluation/tables/*.csv
 !derivative/automated-evaluation/dmp_similarity_summary_Gpt.csv
 !derivative/automated-evaluation/element_similarity_summary_Gpt.csv
 !derivative/automated-evaluation/sub_element_similarity_summary_Gpt.csv
