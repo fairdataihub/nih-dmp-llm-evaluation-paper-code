@@ -1,0 +1,9 @@
+flask
+pandas
+python-docx
+openai
+ollama
+sentence-transformers
+pypandoc
+python-dotenv
+openpyxl
