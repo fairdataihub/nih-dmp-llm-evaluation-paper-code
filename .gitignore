@@ -67,7 +67,16 @@ document_portal.egg-info/
 # Ignore image files
 *.png
 
+# =========================================================
+# Derivative outputs
+# Keep only the final summary CSVs for GitHub
+# =========================================================
+derivative/*.csv
 
+!derivative/folder_similarity_summary_Gpt.csv
+!derivative/element_similarity_summary_Gpt.csv
+!derivative/folder_similarity_summary_Llama.csv
+!derivative/element_similarity_summary_Llama.csv
 
 
 
