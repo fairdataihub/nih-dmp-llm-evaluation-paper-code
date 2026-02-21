@@ -1,0 +1,82 @@
+Model,DMP Title,Element number,SBERT_Similarity,ROUGE_L_Recall
+Gpt,,element_1,0.5171403884887695,0.17293514931900536
+Gpt,Clinical and MRI data from human research participants,element_2,0.0,0.0
+Gpt,Analysis of social media posts,element_2,0.0,0.0
+Gpt,Secondary Data Analysis on Data from Human Subjects-NIA,element_2,0.0,0.0
+Gpt,HeLa Cell Whole Genome Sequence (DNA or RNA),element_2,0.0,0.0
+Gpt,Drug discovery including intellectual property,element_2,0.0,0.0
+Gpt,Clinical data (human biospecimens),element_2,0.0,0.0
+Gpt,Non-human data (rodents)-NIA,element_2,0.0,0.0
+Gpt,Survey and interview data-NIA,element_2,0.0,0.0
+Gpt,Secondary data analysis-NIA,element_2,0.0,0.0
+Gpt,Non-human data (primates),element_2,0.0,0.0
+Gpt,"Survey, interview, and biological data (tiered access)",element_2,0.0,0.0
+Gpt,Clinical data from human research participants-NIA,element_2,0.0,0.0
+Gpt,Human clinical and genomic data-NIA,element_2,0.0,0.0
+Gpt,Survey and Interview Example,element_2,0.0,0.0
+Gpt,Human Clinical Trial Data,element_2,0.0,0.0
+Gpt,Genomic data from a non-human source,element_2,0.0,0.0
+Gpt,Secondary data analysis,element_2,0.0,0.0
+Gpt,Human clinical and genomics data,element_2,0.0,0.0
+Gpt,Gene expression analysis data from non-human model organism (zebrafish),element_2,0.0,0.0
+Gpt,Human survey data,element_2,0.0,0.0
+Gpt,Genomic data from human research participants,element_2,0.0,0.0
+Gpt,Human genomic data,element_2,0.0,0.0
+Gpt,Technology development,element_2,0.0,0.0
+Gpt,Basic Research from a Non-Human Source Example,element_2,0.0,0.0
+Gpt,Secondary Data Analysis Example,element_2,0.0,0.0
+Gpt,Clinical Data from Human Research Participants,element_2,0.0,0.0
+Gpt,"Survey, interview, and biological data (tiered access)",element_3,0.0,0.0
+Gpt,Non-human data (primates),element_3,0.0,0.0
+Gpt,Secondary data analysis-NIA,element_3,0.0,0.0
+Gpt,Survey and interview data-NIA,element_3,0.0,0.0
+Gpt,Human clinical and genomic data-NIA,element_3,0.0,0.0
+Gpt,Drug discovery including intellectual property,element_3,0.0,0.0
+Gpt,Clinical data (human biospecimens),element_3,0.0,0.0
+Gpt,HeLa Cell Whole Genome Sequence (DNA or RNA),element_3,0.0,0.0
+Gpt,Secondary Data Analysis on Data from Human Subjects-NIA,element_3,0.0,0.0
+Gpt,Analysis of social media posts,element_3,0.0,0.0
+Gpt,Non-human data (rodents)-NIA,element_3,0.0,0.0
+Gpt,Human Clinical Trial Data,element_3,0.0,0.0
+Gpt,Clinical data from human research participants-NIA,element_3,0.0,0.0
+Gpt,Secondary Data Analysis Example,element_3,0.0,0.0
+Gpt,Basic Research from a Non-Human Source Example,element_3,0.0,0.0
+Gpt,Technology development,element_3,0.0,0.0
+Gpt,Human genomic data,element_3,0.0,0.0
+Gpt,Clinical Data from Human Research Participants,element_3,0.0,0.0
+Gpt,Human survey data,element_3,0.0,0.0
+Gpt,Gene expression analysis data from non-human model organism (zebrafish),element_3,0.0,0.0
+Gpt,Human clinical and genomics data,element_3,0.0,0.0
+Gpt,Secondary data analysis,element_3,0.0,0.0
+Gpt,Genomic data from a non-human source,element_3,0.0,0.0
+Gpt,Genomic data from human research participants,element_3,0.0,0.0
+Gpt,Clinical and MRI data from human research participants,element_3,0.0,0.0
+Gpt,Survey and Interview Example,element_3,0.0,0.0
+Gpt,,element_4,0.5499987602233887,0.15438906043228937
+Gpt,,element_5,0.6420355439186096,0.19371492704826038
+Gpt,Secondary data analysis,element_6,0.0,0.0
+Gpt,Clinical and MRI data from human research participants,element_6,0.0,0.0
+Gpt,Analysis of social media posts,element_6,0.0,0.0
+Gpt,Secondary Data Analysis on Data from Human Subjects-NIA,element_6,0.0,0.0
+Gpt,HeLa Cell Whole Genome Sequence (DNA or RNA),element_6,0.0,0.0
+Gpt,Drug discovery including intellectual property,element_6,0.0,0.0
+Gpt,Clinical data (human biospecimens),element_6,0.0,0.0
+Gpt,Non-human data (rodents)-NIA,element_6,0.0,0.0
+Gpt,Human clinical and genomic data-NIA,element_6,0.0,0.0
+Gpt,Survey and interview data-NIA,element_6,0.0,0.0
+Gpt,Secondary data analysis-NIA,element_6,0.0,0.0
+Gpt,Non-human data (primates),element_6,0.0,0.0
+Gpt,"Survey, interview, and biological data (tiered access)",element_6,0.0,0.0
+Gpt,Clinical data from human research participants-NIA,element_6,0.0,0.0
+Gpt,Human Clinical Trial Data,element_6,0.0,0.0
+Gpt,Survey and Interview Example,element_6,0.0,0.0
+Gpt,Secondary Data Analysis Example,element_6,0.0,0.0
+Gpt,Basic Research from a Non-Human Source Example,element_6,0.0,0.0
+Gpt,Technology development,element_6,0.0,0.0
+Gpt,Genomic data from human research participants,element_6,0.0,0.0
+Gpt,Clinical Data from Human Research Participants,element_6,0.0,0.0
+Gpt,Human survey data,element_6,0.0,0.0
+Gpt,Gene expression analysis data from non-human model organism (zebrafish),element_6,0.0,0.0
+Gpt,Human clinical and genomics data,element_6,0.0,0.0
+Gpt,Genomic data from a non-human source,element_6,0.0,0.0
+Gpt,Human genomic data,element_6,0.0,0.0

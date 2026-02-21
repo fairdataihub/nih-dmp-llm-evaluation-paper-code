@@ -1,0 +1,82 @@
+Model,DMP Title,Element number,SBERT_Similarity,ROUGE_L_Recall
+Llama,,element_1,0.599507749080658,0.09971260777208547
+Llama,Clinical and MRI data from human research participants,element_2,0.5902491807937622,0.045112781954887216
+Llama,Analysis of social media posts,element_2,0.6280577182769775,0.16666666666666666
+Llama,Secondary Data Analysis on Data from Human Subjects-NIA,element_2,0.644391655921936,0.16071428571428573
+Llama,HeLa Cell Whole Genome Sequence (DNA or RNA),element_2,0.44997087121009827,0.2564102564102564
+Llama,Drug discovery including intellectual property,element_2,0.685831606388092,0.14285714285714285
+Llama,Clinical data (human biospecimens),element_2,0.5575970411300659,0.10714285714285714
+Llama,Non-human data (rodents)-NIA,element_2,0.5856342315673828,0.05
+Llama,Survey and interview data-NIA,element_2,0.5740733742713928,0.3333333333333333
+Llama,Secondary data analysis-NIA,element_2,0.6852747201919556,0.25
+Llama,Non-human data (primates),element_2,0.6696724891662598,0.3870967741935484
+Llama,"Survey, interview, and biological data (tiered access)",element_2,0.6278330683708191,0.1875
+Llama,Clinical data from human research participants-NIA,element_2,0.8104344606399536,0.328125
+Llama,Human clinical and genomic data-NIA,element_2,0.5425594449043274,0.11904761904761904
+Llama,Survey and Interview Example,element_2,0.7829904556274414,0.20689655172413793
+Llama,Human Clinical Trial Data,element_2,0.5895140767097473,0.1
+Llama,Genomic data from a non-human source,element_2,0.5235396027565002,0.22641509433962265
+Llama,Secondary data analysis,element_2,0.6816959977149963,0.1292517006802721
+Llama,Human clinical and genomics data,element_2,0.7700278162956238,0.20689655172413793
+Llama,Gene expression analysis data from non-human model organism (zebrafish),element_2,0.4683358669281006,0.17543859649122806
+Llama,Human survey data,element_2,0.5751008987426758,0.25
+Llama,Genomic data from human research participants,element_2,0.5015592575073242,0.072992700729927
+Llama,Human genomic data,element_2,0.4657011926174164,0.25806451612903225
+Llama,Technology development,element_2,0.5008209943771362,0.25806451612903225
+Llama,Basic Research from a Non-Human Source Example,element_2,0.7242438793182373,0.10828025477707007
+Llama,Secondary Data Analysis Example,element_2,0.6228829026222229,0.11627906976744186
+Llama,Clinical Data from Human Research Participants,element_2,0.5351032614707947,0.14285714285714285
+Llama,"Survey, interview, and biological data (tiered access)",element_3,0.6130982637405396,0.4074074074074074
+Llama,Non-human data (primates),element_3,0.5497680306434631,0.2619047619047619
+Llama,Secondary data analysis-NIA,element_3,0.5054178833961487,0.2702702702702703
+Llama,Survey and interview data-NIA,element_3,0.5605891942977905,0.37037037037037035
+Llama,Human clinical and genomic data-NIA,element_3,0.5695711374282837,0.12578616352201258
+Llama,Drug discovery including intellectual property,element_3,0.35503119230270386,0.16279069767441862
+Llama,Clinical data (human biospecimens),element_3,0.5359984040260315,0.1694915254237288
+Llama,HeLa Cell Whole Genome Sequence (DNA or RNA),element_3,0.5285839438438416,0.25
+Llama,Secondary Data Analysis on Data from Human Subjects-NIA,element_3,0.6114110350608826,0.13793103448275862
+Llama,Analysis of social media posts,element_3,0.4236597716808319,0.2631578947368421
+Llama,Non-human data (rodents)-NIA,element_3,0.7588508725166321,0.2708333333333333
+Llama,Human Clinical Trial Data,element_3,0.8399196267127991,0.2318840579710145
+Llama,Clinical data from human research participants-NIA,element_3,0.6592450141906738,0.27906976744186046
+Llama,Secondary Data Analysis Example,element_3,0.40419214963912964,0.21739130434782608
+Llama,Basic Research from a Non-Human Source Example,element_3,0.560738742351532,0.1956521739130435
+Llama,Technology development,element_3,0.7033045291900635,0.17692307692307693
+Llama,Human genomic data,element_3,0.7720159888267517,0.13875598086124402
+Llama,Clinical Data from Human Research Participants,element_3,0.3787938058376312,0.14285714285714285
+Llama,Human survey data,element_3,0.4613468647003174,0.11267605633802817
+Llama,Gene expression analysis data from non-human model organism (zebrafish),element_3,0.613248884677887,0.12195121951219512
+Llama,Human clinical and genomics data,element_3,0.6635231971740723,0.13793103448275862
+Llama,Secondary data analysis,element_3,0.5758666396141052,0.12337662337662338
+Llama,Genomic data from a non-human source,element_3,0.22964684665203094,0.4166666666666667
+Llama,Genomic data from human research participants,element_3,0.5533973574638367,0.10897435897435898
+Llama,Clinical and MRI data from human research participants,element_3,0.3609417676925659,0.0743801652892562
+Llama,Survey and Interview Example,element_3,0.49433085322380066,0.09944751381215469
+Llama,,element_4,0.3812994360923767,0.14049404499338333
+Llama,,element_5,0.6874315738677979,0.09382716049382717
+Llama,Secondary data analysis,element_6,0.5749404430389404,0.12857142857142856
+Llama,Clinical and MRI data from human research participants,element_6,0.5175054669380188,0.2125
+Llama,Analysis of social media posts,element_6,0.858853816986084,0.5263157894736842
+Llama,Secondary Data Analysis on Data from Human Subjects-NIA,element_6,0.7996114492416382,0.2054794520547945
+Llama,HeLa Cell Whole Genome Sequence (DNA or RNA),element_6,0.7292450666427612,0.4489795918367347
+Llama,Drug discovery including intellectual property,element_6,0.7303282022476196,0.3137254901960784
+Llama,Clinical data (human biospecimens),element_6,0.6022478342056274,0.225
+Llama,Non-human data (rodents)-NIA,element_6,0.7620407938957214,0.2222222222222222
+Llama,Human clinical and genomic data-NIA,element_6,0.7629926800727844,0.3076923076923077
+Llama,Survey and interview data-NIA,element_6,0.666085958480835,0.2857142857142857
+Llama,Secondary data analysis-NIA,element_6,0.5694435238838196,0.23809523809523808
+Llama,Non-human data (primates),element_6,0.6662640571594238,0.2619047619047619
+Llama,"Survey, interview, and biological data (tiered access)",element_6,0.5702939033508301,0.23809523809523808
+Llama,Clinical data from human research participants-NIA,element_6,0.6780219078063965,0.2619047619047619
+Llama,Human Clinical Trial Data,element_6,0.43860313296318054,0.14285714285714285
+Llama,Survey and Interview Example,element_6,0.7350611686706543,0.25842696629213485
+Llama,Secondary Data Analysis Example,element_6,0.6632295250892639,0.20952380952380953
+Llama,Basic Research from a Non-Human Source Example,element_6,0.6193771958351135,0.21904761904761905
+Llama,Technology development,element_6,0.6757610440254211,0.2638888888888889
+Llama,Genomic data from human research participants,element_6,0.5185773372650146,0.10037174721189591
+Llama,Clinical Data from Human Research Participants,element_6,0.7820722460746765,0.23157894736842105
+Llama,Human survey data,element_6,0.8640115857124329,0.5263157894736842
+Llama,Gene expression analysis data from non-human model organism (zebrafish),element_6,0.6332553029060364,0.22666666666666666
+Llama,Human clinical and genomics data,element_6,0.7407368421554565,0.24675324675324675
+Llama,Genomic data from a non-human source,element_6,0.44624021649360657,0.10116731517509728
+Llama,Human genomic data,element_6,0.5405257344245911,0.1592920353982301

@@ -1,0 +1,7 @@
+Model,Element number,SBERT_Similarity,ROUGE_L_Recall
+Gpt,element_1,0.5171403884887695,0.17293514931900536
+Gpt,element_2,0.0,0.0
+Gpt,element_3,0.0,0.0
+Gpt,element_4,0.5499987602233887,0.15438906043228937
+Gpt,element_5,0.6420355439186096,0.19371492704826038
+Gpt,element_6,0.0,0.0

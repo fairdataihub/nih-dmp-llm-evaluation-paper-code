@@ -1,13 +1,4 @@
-# =========================================================
-# Outputs: keep only .md files
-# =========================================================
-outputs/**
 
-# Re-allow markdown inside outputs
-!outputs/**/*.md
-
-# Optional: keep folder structure (so empty dirs can exist)
-!outputs/**/
 
 
 venv/
@@ -76,8 +67,7 @@ document_portal.egg-info/
 # Ignore image files
 *.png
 
-# Ignore text and data files
-*.csv
+
 
 
 

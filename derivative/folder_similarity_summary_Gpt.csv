@@ -1,0 +1,28 @@
+Model,Folder,SBERT_Similarity,ROUGE_L_Recall
+Gpt,,0.5697248975435892,0.17367971226651835
+Gpt,Analysis of social media posts,0.0,0.0
+Gpt,Basic Research from a Non-Human Source Example,0.0,0.0
+Gpt,Clinical Data from Human Research Participants,0.0,0.0
+Gpt,Clinical and MRI data from human research participants,0.0,0.0
+Gpt,Clinical data (human biospecimens),0.0,0.0
+Gpt,Clinical data from human research participants-NIA,0.0,0.0
+Gpt,Drug discovery including intellectual property,0.0,0.0
+Gpt,Gene expression analysis data from non-human model organism (zebrafish),0.0,0.0
+Gpt,Genomic data from a non-human source,0.0,0.0
+Gpt,Genomic data from human research participants,0.0,0.0
+Gpt,HeLa Cell Whole Genome Sequence (DNA or RNA),0.0,0.0
+Gpt,Human Clinical Trial Data,0.0,0.0
+Gpt,Human clinical and genomic data-NIA,0.0,0.0
+Gpt,Human clinical and genomics data,0.0,0.0
+Gpt,Human genomic data,0.0,0.0
+Gpt,Human survey data,0.0,0.0
+Gpt,Non-human data (primates),0.0,0.0
+Gpt,Non-human data (rodents)-NIA,0.0,0.0
+Gpt,Secondary Data Analysis Example,0.0,0.0
+Gpt,Secondary Data Analysis on Data from Human Subjects-NIA,0.0,0.0
+Gpt,Secondary data analysis,0.0,0.0
+Gpt,Secondary data analysis-NIA,0.0,0.0
+Gpt,Survey and Interview Example,0.0,0.0
+Gpt,Survey and interview data-NIA,0.0,0.0
+Gpt,"Survey, interview, and biological data (tiered access)",0.0,0.0
+Gpt,Technology development,0.0,0.0
