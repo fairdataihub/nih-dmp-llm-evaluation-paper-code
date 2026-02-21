@@ -75,9 +75,10 @@ derivative/automated-evaluation/*.csv
 
 !derivative/automated-evaluation/dmp_similarity_summary_Gpt.csv
 !derivative/automated-evaluation/element_similarity_summary_Gpt.csv
+!derivative/automated-evaluation/sub_element_similarity_summary_Gpt.csv
 !derivative/automated-evaluation/dmp_similarity_summary_Llama.csv
 !derivative/automated-evaluation/element_similarity_summary_Llama.csv
-
+!derivative/automated-evaluation/sub_element_similarity_summary_Llama.csv
 
 
 
