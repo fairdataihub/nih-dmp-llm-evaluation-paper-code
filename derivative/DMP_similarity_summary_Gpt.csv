@@ -1,0 +1,27 @@
+Model,Folder,SBERT_Similarity,ROUGE_L_Recall
+Gpt,Analysis of social media posts,0.7156095703442892,0.2748925028706366
+Gpt,Basic Research from a Non-Human Source Example,0.7321686347325643,0.24593286047325533
+Gpt,Clinical Data from Human Research Participants,0.6403829356034597,0.2247430772301732
+Gpt,Clinical and MRI data from human research participants,0.6879738867282867,0.19966520399587515
+Gpt,Clinical data (human biospecimens),0.6752614974975586,0.26660798502898553
+Gpt,Clinical data from human research participants-NIA,0.7123732169469198,0.28530433276899647
+Gpt,Drug discovery including intellectual property,0.6450699965159098,0.21690791866940162
+Gpt,Gene expression analysis data from non-human model organism (zebrafish),0.6842883030573527,0.28028516222689237
+Gpt,Genomic data from a non-human source,0.595759113629659,0.25330076042574884
+Gpt,Genomic data from human research participants,0.6193673262993494,0.19960197515730427
+Gpt,HeLa Cell Whole Genome Sequence (DNA or RNA),0.7209570308526357,0.35488670558848434
+Gpt,Human Clinical Trial Data,0.6656446903944016,0.18347725531412448
+Gpt,Human clinical and genomic data-NIA,0.7709488073984782,0.2957782282154316
+Gpt,Human clinical and genomics data,0.7418490250905355,0.2496425326144591
+Gpt,Human genomic data,0.6843408644199371,0.19581046592228016
+Gpt,Human survey data,0.7240864733854929,0.3096443216854538
+Gpt,Non-human data (primates),0.640002985795339,0.3553003819659461
+Gpt,Non-human data (rodents)-NIA,0.7468095521132151,0.3056399199208048
+Gpt,Secondary Data Analysis Example,0.661264772216479,0.26719520464711205
+Gpt,Secondary Data Analysis on Data from Human Subjects-NIA,0.7234359284241995,0.2552239659909712
+Gpt,Secondary data analysis,0.7133860687414805,0.185658317994201
+Gpt,Secondary data analysis-NIA,0.6804452687501907,0.3669301044301045
+Gpt,Survey and Interview Example,0.6852244834105173,0.21889554305469208
+Gpt,Survey and interview data-NIA,0.718308687210083,0.3485191183759539
+Gpt,"Survey, interview, and biological data (tiered access)",0.6463266412417094,0.3532750011916679
+Gpt,Technology development,0.6762921412785848,0.24591267102598158
