@@ -84,4 +84,4 @@ You can also **fork** the repository and submit a **Pull Request** with your cha
 ------------------------------------------------------------------------
 
 ## How to cite
-If you use this code, please cite this repository using the **versioned DOI on Zenodo** for the specific release you used (instructions will be added once the Zenodo record is available). For now, you can reference the repository here: **[fairdataihub/nih-dmp-llm-generation](https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code)**.
+If you use this code, please cite this repository using the **versioned DOI on Zenodo** for the specific release you used (instructions will be added once the Zenodo record is available). For now, you can reference the repository here: [`fairdataihub/nih-dmp-llm-generation`](https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code). 
