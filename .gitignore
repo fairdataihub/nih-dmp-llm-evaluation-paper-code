@@ -80,6 +80,10 @@ derivative/human-evaluation/tables/*.csv
 !derivative/automated-evaluation/element_similarity_summary_Llama.csv
 !derivative/automated-evaluation/sub_element_similarity_summary_Llama.csv
 
+!derivative/human-evaluation/figures/*.png
+!derivative/human-evaluation/tables/error_matrix_Gpt.csv
+!derivative/human-evaluation/tables/error_matrix_Llama.csv  
+!derivative/human-evaluation/tables/error_matrix_Human.csv
 
 
 # Ignore Word files
