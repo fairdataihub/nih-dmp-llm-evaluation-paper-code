@@ -66,8 +66,7 @@ Both notebooks use structured input files included in the `primary/` directory.
 
 The DMP template used for generation and evaluation is available here: [`primary/automated-evaluation/dmp-template.md`](https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code/blob/main/primary/automated-evaluation/dmp-template.md)
 
-All outputs from both evaluation pipelines (tables and figures) are saved under the `derivative/` directory: https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code/tree/main/derivative
-
+All outputs from both evaluation pipelines (tables and figures) are saved under the `derivative/` directory.
 
 ------------------------------------------------------------------------
 
