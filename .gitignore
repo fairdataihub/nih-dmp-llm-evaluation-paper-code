@@ -85,6 +85,11 @@ derivative/human-evaluation/tables/*.csv
 !derivative/human-evaluation/tables/error_matrix_Llama.csv  
 !derivative/human-evaluation/tables/error_matrix_Human.csv
 
+!derivative/human-evaluation/survey.pdf
+!derivative/human-evaluation/DMPs/*.pdf
+
+
+
 
 # Ignore Word files
 *.doc
