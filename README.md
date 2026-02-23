@@ -40,10 +40,16 @@ pip install -e .
 ---
 
 ### step 4- Running the Notebook in two approaches 
-**automatic reference-based evaluation**
-Use **[`Automated-evaluation.ipynb`](https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code/blob/main/Automated-evaluation.ipynb)**.
-**human expert evaluation**
-Use **[`Human-evaluation.ipynb`](https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code/blob/main/Human-evaluation.ipynb)**.
+This repository supports two complementary evaluation workflows. Use the appropriate notebook depending on the evaluation approach you want to run.
+
+#### Automatic reference-based evaluation
+
+Use: [`Automated-evaluation.ipynb`](https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code/blob/main/Automated-evaluation.ipynb)
+
+#### Human expert evaluation
+
+Use: [`Human-evaluation.ipynb`](https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code/blob/main/Human-evaluation.ipynb)
+
 
 ------------------------------------------------------------------------
 
