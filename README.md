@@ -55,18 +55,9 @@ Use: [`Human-evaluation.ipynb`](https://github.com/fairdataihub/nih-dmp-llm-eval
 
 ## Inputs and Outputs
 
-Both notebooks use structured input files included in the `primary/` directory.
+The Jupyter notebook makes use of files in the dataset associated with the paper. You will need to download the dataset at add it in the input folder (call the dataset folder 'dataset').
 
-- The automatic reference-based evaluation inputs include:
-  - Llama 3.3 generated DMPs (Markdown)
-  - GPT-4.1 generated DMPs (Markdown)
-  - Extracted content from selected human-written DMPs (Excel)
-
-- The human expert evaluation inputs and survey-derived tables and figures are also organized under `primary/`.
-
-The DMP template used for generation and evaluation is available here: [`primary/automated-evaluation/dmp-template.md`](https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code/blob/main/primary/automated-evaluation/dmp-template.md)
-
-All outputs from both evaluation pipelines (tables and figures) are saved under the `derivative/` directory.
+All outputs from both evaluation pipelines (tables and figures) are saved under the `outputs/` directory.
 
 ------------------------------------------------------------------------
 
