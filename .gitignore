@@ -79,7 +79,37 @@ inputs/dataset/**
 # But allow a placeholder file so the folder can exist in the repo if you want
 !inputs/dataset/.gitkeep
 
+
+# =========================================================
+# outputs: ignore everything by default
+# =========================================================
 outputs/**
+
+# =========================================================
+# outputs: allow specific automated-evaluation CSVs
+# (need to unignore the folder path first)
+# =========================================================
+!outputs/
+!outputs/automated-evaluation/
+!outputs/automated-evaluation/dmp_similarity_summary_Gpt.csv
+!outputs/automated-evaluation/element_similarity_summary_Gpt.csv
+!outputs/automated-evaluation/sub_element_similarity_summary_Gpt.csv
+!outputs/automated-evaluation/dmp_similarity_summary_Llama.csv
+!outputs/automated-evaluation/element_similarity_summary_Llama.csv
+!outputs/automated-evaluation/sub_element_similarity_summary_Llama.csv
+
+# =========================================================
+# outputs: allow specific human-evaluation artifacts
+# =========================================================
+!outputs/human-evaluation/
+!outputs/human-evaluation/figures/
+!outputs/human-evaluation/figures/*.png
+
+!outputs/human-evaluation/tables/
+!outputs/human-evaluation/tables/error_matrix_Gpt.csv
+!outputs/human-evaluation/tables/error_matrix_Llama.csv
+!outputs/human-evaluation/tables/error_matrix_Human.csv
+
 
 # Ignore Word files
 *.doc
