@@ -36,8 +36,6 @@ source venv/bin/activate
 ### Step 3 — Install dependencies
 ```bash
 pip install -r requirements.txt
-# or (recommended for local dev)
-pip install -e .
 ```
 ---
 
