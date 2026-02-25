@@ -71,12 +71,15 @@ document_portal.egg-info/
 # Derivative outputs
 # Keep only the final summary CSVs for GitHub
 # =========================================================
-inputs/dataset**
+inputs/dataset/
+
+# Ignore everything inside dataset
+inputs/dataset/**
+
+# But allow a placeholder file so the folder can exist in the repo if you want
+!inputs/dataset/.gitkeep
+
 outputs/**
-
-
-
-
 
 # Ignore Word files
 *.doc
