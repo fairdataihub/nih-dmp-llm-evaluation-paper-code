@@ -1,4 +1,4 @@
-# Code: Automated and Human Evaluation Generated NIH Data Management Plans (DMPs)
+# Code: NIH DMPs LLM Evaluation Paper
 
 ## Overview
 
@@ -72,7 +72,7 @@ All outputs from both evaluation pipelines (tables and figures) are saved under 
 
 ## License
 
-This work is licensed under the **[MIT License](https://opensource.org/license/mit/)**. See **[LICENSE](https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code/blob/main/LICENSE)** for more information.
+This work is licensed under the **[MIT License](https://opensource.org/license/mit/)**. See **[LICENSE](LICENSE.txt)** for more information.
 
 ---
 
