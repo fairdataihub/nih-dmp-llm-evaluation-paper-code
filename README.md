@@ -10,7 +10,7 @@ The repository includes the complete automated and human evaluation workflows. P
 
 ## Standards followed
 
-The overall codebase is organized in alignment with the **[FAIR-BioRS guidelines](https://fair-biors.org/)**. All Python code follows **[PEP 8](https://peps.python.org/pep-0008/)** conventions, including consistent formatting, inline comments, and docstrings. Project dependencies are fully captured in **[requirements.txt](https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code/blob/main/Requirements.txt)**.
+The overall codebase is organized in alignment with the **[FAIR-BioRS guidelines](https://fair-biors.org/)**. All Python code follows **[PEP 8](https://peps.python.org/pep-0008/)** conventions, including consistent formatting, inline comments, and docstrings. Project dependencies are fully captured in **[requirements.txt](https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code/blob/main/requirements.txt)**.
 
 ---
 
