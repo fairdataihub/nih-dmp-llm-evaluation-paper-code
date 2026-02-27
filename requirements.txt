@@ -1,0 +1,22 @@
+# Core data stack
+pandas==2.2.3
+numpy==1.26.4
+scipy==1.15.3
+statsmodels==0.14.2
+
+# Visualization
+matplotlib==3.10.0
+seaborn==0.13.2
+
+# I/O + document export
+openpyxl==3.1.5
+python-docx==1.1.0
+pypandoc==1.13
+python-dotenv==1.0.1
+
+# NLP evaluation
+rouge-score==0.1.2
+
+# Notebook environment (optional but useful)
+jupyterlab==4.2.5
+ipykernel==6.29.5
