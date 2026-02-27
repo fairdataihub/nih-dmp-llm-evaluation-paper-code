@@ -1,3 +1,6 @@
+# Project: NIH DMP LLM Evaluation (DMP-Chef) - requirements
+# Python: 3.10 (Windows)
+
 pandas==2.2.3
 numpy==1.26.4
 scipy==1.15.3

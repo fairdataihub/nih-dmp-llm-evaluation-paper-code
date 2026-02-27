@@ -1,10 +1,7 @@
 
 
-
-venv/
-# ========================
 #  Python Cache & Virtualenv
-# ========================
+
 __pycache__/
 *.py[cod]
 *.so
@@ -16,32 +13,32 @@ venv/
 *.egg-info/
 *.egg
 
-# ========================
+
 #  OS & Editor Files
-# ========================
+
 .DS_Store
 .vscode/
 .idea/
 
-# ========================
+
 #  LangChain / Vector Store
-# ========================
+
 faiss_index/
 *.faiss
 *.pkl
 
-# ========================
+
 #  Data & Archives
-# ========================
+
 
 
 archive/
 main_archive/
 *.pdf
 
-# ========================
+
 #  Secrets & Configs
-# ========================
+
 .env
 .env.*
 *.yaml
@@ -50,15 +47,15 @@ main_archive/
 *.sqlite3
 
 
-# ========================
+
 #  Logs
-# ========================
+
 logs/
 *.log
 
-# ========================
+
 #  Build & Distribution
-# ========================
+
 dist/
 build/
 document_portal.egg-info/
@@ -67,10 +64,10 @@ document_portal.egg-info/
 # Ignore image files
 *.png
 
-# =========================================================
+
 # Derivative outputs
 # Keep only the final summary CSVs for GitHub
-# =========================================================
+
 inputs/dataset/
 
 # Ignore everything inside dataset
@@ -80,15 +77,11 @@ inputs/dataset/**
 !inputs/dataset/.gitkeep
 
 
-# =========================================================
-# outputs: ignore everything by default
-# =========================================================
-outputs/**
 
-# =========================================================
+
+
 # outputs: allow specific automated-evaluation CSVs
-# (need to unignore the folder path first)
-# =========================================================
+outputs/**
 !outputs/
 !outputs/automated-evaluation/
 !outputs/automated-evaluation/dmp_similarity_summary_Gpt.csv
@@ -98,9 +91,9 @@ outputs/**
 !outputs/automated-evaluation/element_similarity_summary_Llama.csv
 !outputs/automated-evaluation/sub_element_similarity_summary_Llama.csv
 
-# =========================================================
+
 # outputs: allow specific human-evaluation artifacts
-# =========================================================
+
 !outputs/human-evaluation/
 !outputs/human-evaluation/figures/
 !outputs/human-evaluation/figures/*.png
