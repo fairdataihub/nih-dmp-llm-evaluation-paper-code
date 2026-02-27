@@ -1,44 +1,36 @@
-
-
-#  Python Cache & Virtualenv
-
+# Python Cache & Virtual Environments
 __pycache__/
 *.py[cod]
-*.so
-*.pyd
 *.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+
 env/
 venv/
 .venv/
-*.egg-info/
-*.egg
 
-
-#  OS & Editor Files
-
+# OS & Editor Files
 .DS_Store
 .vscode/
 .idea/
 
-
-#  LangChain / Vector Store
-
+# LangChain / Vector Store
 faiss_index/
 *.faiss
 *.pkl
 
-
-#  Data & Archives
-
-
-
+# Data & Archives
 archive/
 main_archive/
 *.pdf
 
+# Ignore dataset contents but keep folder structure
+inputs/dataset/**
+!inputs/dataset/.gitkeep
 
-#  Secrets & Configs
-
+# Secrets & Configs
 .env
 .env.*
 *.yaml
@@ -46,44 +38,31 @@ main_archive/
 *.json
 *.sqlite3
 
-
-
-#  Logs
-
+# Logs
 logs/
 *.log
 
-
-#  Build & Distribution
-
+# Build & Distribution
 dist/
 build/
 document_portal.egg-info/
 
-
-# Ignore image files
+# Ignore generated images and documents
 *.png
+*.doc
+*.docx
 
-
-# Derivative outputs
-# Keep only the final summary CSVs for GitHub
-
-inputs/dataset/
-
-# Ignore everything inside dataset
-inputs/dataset/**
-
-# But allow a placeholder file so the folder can exist in the repo if you want
-!inputs/dataset/.gitkeep
-
-
-
-
-
-# outputs: allow specific automated-evaluation CSVs
+# Outputs (ignore everything by default)
 outputs/**
+
+# Allow output folders
 !outputs/
 !outputs/automated-evaluation/
+!outputs/human-evaluation/
+!outputs/human-evaluation/figures/
+!outputs/human-evaluation/tables/
+
+# Allow specific automated evaluation CSVs
 !outputs/automated-evaluation/dmp_similarity_summary_GPT.csv
 !outputs/automated-evaluation/element_similarity_summary_GPT.csv
 !outputs/automated-evaluation/sub_element_similarity_summary_GPT.csv
@@ -91,20 +70,8 @@ outputs/**
 !outputs/automated-evaluation/element_similarity_summary_Llama.csv
 !outputs/automated-evaluation/sub_element_similarity_summary_Llama.csv
 
-
-# outputs: allow specific human-evaluation artifacts
-
-!outputs/human-evaluation/
-!outputs/human-evaluation/figures/
+# Allow specific human evaluation artifacts
 !outputs/human-evaluation/figures/*.png
-
-!outputs/human-evaluation/tables/
 !outputs/human-evaluation/tables/error_matrix_GPT.csv
 !outputs/human-evaluation/tables/error_matrix_Llama.csv
 !outputs/human-evaluation/tables/error_matrix_Human.csv
-
-
-# Ignore Word files
-*.doc
-*.docx
-
