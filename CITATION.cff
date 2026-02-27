@@ -1,0 +1,27 @@
+title: nih-dmp-llm-evaluation-paper-code
+authors:
+  - given-names: Nahid
+    family-names: Zeinali
+    email: nzeinali@calmi2.org
+    affiliation: FAIR Data Innovations Hub, California Medical Innovations Institute
+  - given-names: Bhavesh
+    family-names: Patel
+    email: bpatel@calmi2.org
+    affiliation: FAIR Data Innovations Hub, California Medical Innovations Institute
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata from this file.
+type: software
+abstract: Large language models are increasingly used to draft NIH Data
+  Management Plans (DMPs), but their quality and policy alignment require
+  careful evaluation. This repository contains the code for our systematic
+  assessment of Llama 3.3 and GPT-4.1 using both automated metrics and human
+  expert review. See the project inventory for related resources, including the
+  paper and dataset.
+keywords:
+  - LLM
+  - DMPs
+  - NIH
+  - evaluation
+  - FAIR Data Innovations Hub
+license: MIT
+repository-code: https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-code
