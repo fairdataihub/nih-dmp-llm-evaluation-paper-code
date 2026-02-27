@@ -84,9 +84,9 @@ inputs/dataset/**
 outputs/**
 !outputs/
 !outputs/automated-evaluation/
-!outputs/automated-evaluation/dmp_similarity_summary_Gpt.csv
-!outputs/automated-evaluation/element_similarity_summary_Gpt.csv
-!outputs/automated-evaluation/sub_element_similarity_summary_Gpt.csv
+!outputs/automated-evaluation/dmp_similarity_summary_GPT.csv
+!outputs/automated-evaluation/element_similarity_summary_GPT.csv
+!outputs/automated-evaluation/sub_element_similarity_summary_GPT.csv
 !outputs/automated-evaluation/dmp_similarity_summary_Llama.csv
 !outputs/automated-evaluation/element_similarity_summary_Llama.csv
 !outputs/automated-evaluation/sub_element_similarity_summary_Llama.csv
@@ -99,7 +99,7 @@ outputs/**
 !outputs/human-evaluation/figures/*.png
 
 !outputs/human-evaluation/tables/
-!outputs/human-evaluation/tables/error_matrix_Gpt.csv
+!outputs/human-evaluation/tables/error_matrix_GPT.csv
 !outputs/human-evaluation/tables/error_matrix_Llama.csv
 !outputs/human-evaluation/tables/error_matrix_Human.csv
 

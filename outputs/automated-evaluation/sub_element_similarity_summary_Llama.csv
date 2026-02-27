@@ -1,0 +1,13 @@
+Model,Element number,SBERT_Similarity,ROUGE_L_Recall
+Llama,element_1a,-0.006131350098607631,0.0
+Llama,element_1b,-0.009422244933935313,0.0
+Llama,element_1c,-0.010645710881083058,0.0
+Llama,element_2,-0.014849967466524014,0.0
+Llama,element_3,-0.02756925172602328,0.0
+Llama,element_4a,0.004481900125168837,0.0
+Llama,element_4b,-0.004874143570374984,0.0
+Llama,element_4c,0.002176011894614651,0.0
+Llama,element_5a,-0.00759464508603112,0.0
+Llama,element_5b,-0.01209132020505002,0.0
+Llama,element_5c,0.026270240858698692,0.0
+Llama,element_6,0.0579863996244967,0.0
