@@ -25,6 +25,8 @@ faiss_index/
 archive/
 main_archive/
 *.pdf
+*.zip
+inputs/dataset.zip
 
 # Ignore dataset contents but keep folder structure
 inputs/dataset/**
@@ -75,3 +77,6 @@ outputs/**
 !outputs/human-evaluation/tables/error_matrix_GPT.csv
 !outputs/human-evaluation/tables/error_matrix_Llama.csv
 !outputs/human-evaluation/tables/error_matrix_Human.csv
+!outputs/human-evaluation/tables/table6_human_eval_statistics.csv
+!outputs/human-evaluation/tables/table6_human_eval_statistics.xlsx
+!outputs/human-evaluation/tables/clmm_pairwise.csv
